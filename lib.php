@@ -1,5 +1,8 @@
 <!DOCTYPE HTML>
-<head>
-<img src="diagram.jpg">
+<html>
+<head><title></title>
 </head>
+<body>
+   <img src="diagram.jpg">
+</body>
 </html>
